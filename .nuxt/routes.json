@@ -1,0 +1,156 @@
+[
+  {
+    "name": "about___it",
+    "path": "/about",
+    "component": "/home/acmc/repos/url/pages/about.vue",
+    "chunkName": "pages/about",
+    "url": "/about"
+  },
+  {
+    "name": "conditions___it",
+    "path": "/conditions",
+    "component": "/home/acmc/repos/url/pages/conditions.vue",
+    "chunkName": "pages/conditions",
+    "url": "/conditions"
+  },
+  {
+    "name": "contact___it",
+    "path": "/contact",
+    "component": "/home/acmc/repos/url/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "url": "/contact"
+  },
+  {
+    "name": "data-protection___it",
+    "path": "/data-protection",
+    "component": "/home/acmc/repos/url/pages/data-protection.vue",
+    "chunkName": "pages/data-protection",
+    "url": "/data-protection"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/home/acmc/repos/url/pages/index.vue",
+    "chunkName": "pages/index",
+    "url": "/en"
+  },
+  {
+    "name": "itinerary___it",
+    "path": "/itinerary",
+    "component": "/home/acmc/repos/url/pages/itinerary.vue",
+    "chunkName": "pages/itinerary",
+    "url": "/itinerary"
+  },
+  {
+    "name": "marys-meals___it",
+    "path": "/marys-meals",
+    "component": "/home/acmc/repos/url/pages/marys-meals.vue",
+    "chunkName": "pages/marys-meals",
+    "url": "/marys-meals"
+  },
+  {
+    "name": "perform-redirect-marysmeals___it",
+    "path": "/perform-redirect-marysmeals",
+    "component": "/home/acmc/repos/url/pages/perform-redirect-marysmeals.vue",
+    "chunkName": "pages/perform-redirect-marysmeals",
+    "url": "/perform-redirect-marysmeals"
+  },
+  {
+    "name": "project___it",
+    "path": "/project",
+    "component": "/home/acmc/repos/url/pages/project.vue",
+    "chunkName": "pages/project",
+    "url": "/project"
+  },
+  {
+    "name": "redirect-marysmeals___it",
+    "path": "/redirect-marysmeals",
+    "component": "/home/acmc/repos/url/pages/redirect-marysmeals.vue",
+    "chunkName": "pages/redirect-marysmeals",
+    "url": "/redirect-marysmeals"
+  },
+  {
+    "name": "signup___it",
+    "path": "/signup",
+    "component": "/home/acmc/repos/url/pages/signup.vue",
+    "chunkName": "pages/signup",
+    "url": "/signup"
+  },
+  {
+    "name": "about___en",
+    "path": "/en/about",
+    "component": "/home/acmc/repos/url/pages/about.vue",
+    "chunkName": "pages/about",
+    "url": "/en/about"
+  },
+  {
+    "name": "conditions___en",
+    "path": "/en/conditions",
+    "component": "/home/acmc/repos/url/pages/conditions.vue",
+    "chunkName": "pages/conditions",
+    "url": "/en/conditions"
+  },
+  {
+    "name": "contact___en",
+    "path": "/en/contact",
+    "component": "/home/acmc/repos/url/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "url": "/en/contact"
+  },
+  {
+    "name": "data-protection___en",
+    "path": "/en/data-protection",
+    "component": "/home/acmc/repos/url/pages/data-protection.vue",
+    "chunkName": "pages/data-protection",
+    "url": "/en/data-protection"
+  },
+  {
+    "name": "itinerary___en",
+    "path": "/en/itinerary",
+    "component": "/home/acmc/repos/url/pages/itinerary.vue",
+    "chunkName": "pages/itinerary",
+    "url": "/en/itinerary"
+  },
+  {
+    "name": "marys-meals___en",
+    "path": "/en/marys-meals",
+    "component": "/home/acmc/repos/url/pages/marys-meals.vue",
+    "chunkName": "pages/marys-meals",
+    "url": "/en/marys-meals"
+  },
+  {
+    "name": "perform-redirect-marysmeals___en",
+    "path": "/en/perform-redirect-marysmeals",
+    "component": "/home/acmc/repos/url/pages/perform-redirect-marysmeals.vue",
+    "chunkName": "pages/perform-redirect-marysmeals",
+    "url": "/en/perform-redirect-marysmeals"
+  },
+  {
+    "name": "project___en",
+    "path": "/en/project",
+    "component": "/home/acmc/repos/url/pages/project.vue",
+    "chunkName": "pages/project",
+    "url": "/en/project"
+  },
+  {
+    "name": "redirect-marysmeals___en",
+    "path": "/en/redirect-marysmeals",
+    "component": "/home/acmc/repos/url/pages/redirect-marysmeals.vue",
+    "chunkName": "pages/redirect-marysmeals",
+    "url": "/en/redirect-marysmeals"
+  },
+  {
+    "name": "signup___en",
+    "path": "/en/signup",
+    "component": "/home/acmc/repos/url/pages/signup.vue",
+    "chunkName": "pages/signup",
+    "url": "/en/signup"
+  },
+  {
+    "name": "index___it",
+    "path": "/",
+    "component": "/home/acmc/repos/url/pages/index.vue",
+    "chunkName": "pages/index",
+    "url": "/"
+  }
+]

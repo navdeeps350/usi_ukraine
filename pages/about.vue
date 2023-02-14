@@ -18,12 +18,16 @@ import Card from '~/components/card.vue';
 import Heading from '~/components/heading.vue';
 
 const names = [
-  'Martina Krättli Torrens',
-  'Aldán Creo Mariño',
-  'Georgina Cortés Pagès',
-  'Tiia Maukonen',
-  'Alessandro Steccanella',
-  'Chiara Biagi'
+  'Alina Ostrovska',
+  'Katerina Bartosh',
+  'Manuel Baeriswyl',
+  'Vincenzo De Luca',
+  'Olena Tymoshenko',
+  'Navdeep Singh Bedi',
+  'Volodymir Kyrylov',
+  'Ali Polatay',
+  'Kateryna Chumakova',
+  'Eleni Plemmenou'
 ]
 
 export default Vue.extend({

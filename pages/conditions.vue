@@ -9,7 +9,7 @@
         <p class="font-bold text-xl">A. NORME GENERALI</p>
 
         <p><b>1. Oggetto</b></p>
-        <p>La "Association ASSOC_NAME" (di seguito anche "organizzatore") organizza un evento escursionistico chiamato "ASSOC_NAME - San Salvatore Hike". Le presenti condizioni regolano le condizioni di partecipazione all'evento e sono vincolanti per i partecipanti.</p>
+        <p>La "Association Student Association for Ukraine" (di seguito anche "organizzatore") organizza un evento escursionistico chiamato "ASSOC_NAME - San Salvatore Hike". Le presenti condizioni regolano le condizioni di partecipazione all'evento e sono vincolanti per i partecipanti.</p>
 
         <p><b>2. Validità delle presenti condizioni generali, diritto applicabile e foro</b></p>
         <p>La partecipazione all'evento implica e richiede l'accettazione di queste condizioni, insieme ad altri requisiti eventualmente applicabili. La versione in lingua italiana è predominante in caso di eventuali incongruenze con le versioni tradotte in altre lingue.</p>
@@ -20,7 +20,7 @@
 
         <p><b>3. Organizzatore ed informazioni</b></p>
         <div class="contact-data border-black border-2 border-solid p-4 my-4 w-fit container mx-auto">
-          <p><b>Association ASSOC_NAME</b></p>
+          <p><b>Association Student Association for Ukraine</b></p>
           <p>Cantone Ticino</p>
           <p>Svizzera</p>
           <p><u>Sito web</u>: <a href="url.cf">url.cf</a></p>

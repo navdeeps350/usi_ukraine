@@ -14,13 +14,8 @@
             </a>
           </div>
         </div>
-        <p>WhatsApp: <a class="underline text-blue-700" href="https://api.whatsapp.com/send/?phone=393495519737">(+39) 34 95 51 97 37</a></p>
-        <p><a class="underline text-blue-700" href="mailto:url@gmail.com">url@gmail.com</a></p>
         <p>
-          <font-awesome-icon icon="instagram" /><a class="underline text-blue-700" href="https://www.instagram.com/url/">Instagram</a>
-        </p>
-        <p>
-          <!--<font-awesome-icon icon="fa-solid fa-brands fa-facebook" />--><a class="underline text-blue-700" href="https://www.facebook.com/url">Facebook</a>
+          <font-awesome-icon icon="instagram" /><a class="underline text-blue-700" href="https://www.instagram.com/safu_usi_supsi/">Instagram</a>
         </p>
       </div>
     </div>

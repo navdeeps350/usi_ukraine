@@ -3,8 +3,8 @@
         <div class="container flex flex-wrap justify-between items-center mx-auto justify-items-stretch">
             <a href="https://url.cf/" class="flex items-center">
                 <!--<img src="https://flowbite.com/docs/images/logo.svg" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo">-->
-                <img src="/logo.svg" class="mr-3 h-6 sm:h-9" alt="ASSOC_NAME Logo"/>
-                <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">ASSOC_NAME</span>
+                <img src="/logo.svg" class="mr-3 h-6 sm:h-9" alt="Student Association for Ukraine Logo"/>
+                <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Student Association for Ukraine</span>
             </a>
             <div class="flex md:order-2 items-center">
                 <NuxtLink to="/redirect-marysmeals" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 h-fit">{{ $t('message.sign_up') }}</NuxtLink>
@@ -36,6 +36,9 @@
                     <li>
                         <NuxtLink to="/project" class="block py-2 pr-4 pl-3 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700" active-class="text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white" aria-current="page">{{ $t('message.project') }}</NuxtLink>
                     </li>
+                  <li>
+                    <a href="https://forms.gle/WZ7nRzGsy8okE2uCA" target="_blank" class="block py-2 pr-4 pl-3 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700" active-class="text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white" aria-current="page">{{ $t('message.consent_form') }}</a>
+                  </li>
                     <li>
                         <NuxtLink to="/contact" class="block py-2 pr-4 pl-3 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700" active-class="text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white" aria-current="page">{{ $t('message.contact') }}</NuxtLink>
                     </li>

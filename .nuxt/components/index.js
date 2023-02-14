@@ -1,6 +1,6 @@
-export { default as Card } from '../../components/card.vue'
-export { default as Heading } from '../../components/heading.vue'
-export { default as Navbar } from '../../components/navbar.vue'
+export const Card = () => import('../../components/card.vue' /* webpackChunkName: "components/card" */).then(c => wrapFunctional(c.default || c))
+export const Heading = () => import('../../components/heading.vue' /* webpackChunkName: "components/heading" */).then(c => wrapFunctional(c.default || c))
+export const Navbar = () => import('../../components/navbar.vue' /* webpackChunkName: "components/navbar" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

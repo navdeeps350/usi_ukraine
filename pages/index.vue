@@ -1,13 +1,11 @@
 <template>
   <Card component="abc">
     <div>
-      <Heading class="px-4" title="ASSOC_NAME" subtitle="San Salvatore Hike">
+      <Heading class="px-4" title="Student Association for Ukraine" subtitle="Towards Monte Bar">
         <h2 class="font-bold mt-4 text-xl">📆 {{ $t('message.event_date') }}</h2>
         <h2 class="font-bold text-xl">⏰ {{ $t('message.event_time') }}</h2>
         <h2 class="font-bold text-xl mb-8">📍 <NuxtLink to="/itinerary" class="underline text-blue-700">{{ $t('message.departure_place') }}</NuxtLink>
         </h2>
-        <h2 class="font-bold text-xl">🍕 {{ $t('message.free') }}</h2>
-        <h2 class="font-bold text-xl">🧃 {{ $t('message.free') }}</h2>
         <h2><span class="font-bold text-xl mb-8">💰 {{ $t('message.free') }}</span> <span class="text-sm">({{ $t('message.donate_as_much_as_you_want') }})</span></h2>
       </Heading>
       <img class="mb-4 rounded-lg" src="/background.png" />

@@ -12,12 +12,12 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_36537e1a from 'nuxt_plugin_plugin_36537e1a' // Source: ./components/plugin.js (mode: 'all')
-import nuxt_plugin_image_5ff505aa from 'nuxt_plugin_image_5ff505aa' // Source: ./image.js (mode: 'all')
-import nuxt_plugin_pluginutils_121b57ea from 'nuxt_plugin_pluginutils_121b57ea' // Source: ./nuxt-i18n/plugin.utils.js (mode: 'all')
-import nuxt_plugin_pluginrouting_8ca3ead4 from 'nuxt_plugin_pluginrouting_8ca3ead4' // Source: ./nuxt-i18n/plugin.routing.js (mode: 'all')
-import nuxt_plugin_pluginmain_068ad899 from 'nuxt_plugin_pluginmain_068ad899' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
-import nuxt_plugin_axios_3602ffa0 from 'nuxt_plugin_axios_3602ffa0' // Source: ./axios.js (mode: 'all')
+import nuxt_plugin_plugin_fcd04dee from 'nuxt_plugin_plugin_fcd04dee' // Source: ./components/plugin.js (mode: 'all')
+import nuxt_plugin_image_c780f2cc from 'nuxt_plugin_image_c780f2cc' // Source: ./image.js (mode: 'all')
+import nuxt_plugin_pluginutils_422c767c from 'nuxt_plugin_pluginutils_422c767c' // Source: ./nuxt-i18n/plugin.utils.js (mode: 'all')
+import nuxt_plugin_pluginrouting_1ee954c7 from 'nuxt_plugin_pluginrouting_1ee954c7' // Source: ./nuxt-i18n/plugin.routing.js (mode: 'all')
+import nuxt_plugin_pluginmain_113a2408 from 'nuxt_plugin_pluginmain_113a2408' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
+import nuxt_plugin_axios_9d8eecc2 from 'nuxt_plugin_axios_9d8eecc2' // Source: ./axios.js (mode: 'all')
 import nuxt_plugin_gtag_0a2cb1e4 from 'nuxt_plugin_gtag_0a2cb1e4' // Source: ../plugins/gtag.js (mode: 'client')
 import nuxt_plugin_fontawesome_b8db358e from 'nuxt_plugin_fontawesome_b8db358e' // Source: ../plugins/fontawesome.js (mode: 'all')
 
@@ -69,7 +69,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"ASSOC_NAME","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"Join us on a solidarity hike in Lugano on November 26th! All earnings will be given to charity purposes to feed children in need."},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"},{"rel":"preconnect","href":"https:\u002F\u002Ffonts.googleapis.com"},{"rel":"preconnect","href":"https:\u002F\u002Ffonts.gstatic.com"},{"rel":"stylesheet","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss2?family=Lexend+Deca&family=Londrina+Solid&display=swap"}],"style":[],"script":[]},
+    head: {"title":"Student Association for Ukraine","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"Join us on a solidarity hike in Lugano on November 26th! All earnings will be given to charity purposes to feed children in need."},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"},{"rel":"preconnect","href":"https:\u002F\u002Ffonts.googleapis.com"},{"rel":"preconnect","href":"https:\u002F\u002Ffonts.gstatic.com"},{"rel":"stylesheet","href":"https:\u002F\u002Ffonts.googleapis.com\u002Fcss2?family=Lexend+Deca&family=Londrina+Solid&display=swap"}],"style":[],"script":[]},
 
     router,
     nuxt: {
@@ -183,28 +183,28 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_36537e1a === 'function') {
-    await nuxt_plugin_plugin_36537e1a(app.context, inject)
+  if (typeof nuxt_plugin_plugin_fcd04dee === 'function') {
+    await nuxt_plugin_plugin_fcd04dee(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_image_5ff505aa === 'function') {
-    await nuxt_plugin_image_5ff505aa(app.context, inject)
+  if (typeof nuxt_plugin_image_c780f2cc === 'function') {
+    await nuxt_plugin_image_c780f2cc(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginutils_121b57ea === 'function') {
-    await nuxt_plugin_pluginutils_121b57ea(app.context, inject)
+  if (typeof nuxt_plugin_pluginutils_422c767c === 'function') {
+    await nuxt_plugin_pluginutils_422c767c(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginrouting_8ca3ead4 === 'function') {
-    await nuxt_plugin_pluginrouting_8ca3ead4(app.context, inject)
+  if (typeof nuxt_plugin_pluginrouting_1ee954c7 === 'function') {
+    await nuxt_plugin_pluginrouting_1ee954c7(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginmain_068ad899 === 'function') {
-    await nuxt_plugin_pluginmain_068ad899(app.context, inject)
+  if (typeof nuxt_plugin_pluginmain_113a2408 === 'function') {
+    await nuxt_plugin_pluginmain_113a2408(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_3602ffa0 === 'function') {
-    await nuxt_plugin_axios_3602ffa0(app.context, inject)
+  if (typeof nuxt_plugin_axios_9d8eecc2 === 'function') {
+    await nuxt_plugin_axios_9d8eecc2(app.context, inject)
   }
 
   if (process.client && typeof nuxt_plugin_gtag_0a2cb1e4 === 'function') {

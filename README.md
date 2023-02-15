@@ -13,3 +13,8 @@ Repo for the website of the Università della Svizzera Italiana Students' Associ
 2. Run npm install
 3. Run npm run build.
 4. Run nuxt start
+
+### Docker
+We will create and image with name safu, please feel free to chose name of your choice
+1. docker build . --tag=safu
+2. docker run -it -p 3000:3000 safu
